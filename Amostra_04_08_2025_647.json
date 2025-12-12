@@ -1,0 +1,5574 @@
+{
+  "totalResultados" : 760,
+  "pedidos" : [ {
+    "numeroPedido" : "921715331",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "03/11/2021",
+      "numeroRPI" : "2652",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715218",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "148",
+      "nome" : "(automático) Não existe nenhum recurso recebido no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715188",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "148",
+      "nome" : "(automático) Não existe nenhum recurso recebido no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "072",
+      "nome" : "Redistribuição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "EDERSON ASSIS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "03/11/2021",
+      "numeroRPI" : "2652",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "012",
+      "nome" : "(automático) Fim de prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "072",
+      "nome" : "Redistribuição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "EDERSON ASSIS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715412",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "03/11/2021",
+      "numeroRPI" : "2652",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "421",
+      "nome" : "Republicação de pedido",
+      "dataPublicacaoRPI" : "13/04/2021",
+      "numeroRPI" : "2623",
+      "examinador" : "ANDREA ALEIXO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715200",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "148",
+      "nome" : "(automático) Não existe nenhum recurso recebido no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715404",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "26/10/2021",
+      "numeroRPI" : "2651",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715390",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "057",
+      "nome" : "(automático) Decisão mantida",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "421",
+      "nome" : "Republicação de pedido",
+      "dataPublicacaoRPI" : "13/04/2021",
+      "numeroRPI" : "2623",
+      "examinador" : "ANDREA ALEIXO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715536",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG22",
+      "nome" : "(PAG22) Sem pagamento (esperou-se 10 dias)",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "047",
+      "nome" : "Decisão de considerar pedido inexistente por falta de pagamento",
+      "dataPublicacaoRPI" : "26/01/2021",
+      "numeroRPI" : "2612",
+      "examinador" : "MARCELO BARROS DEL REI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715366",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "09/11/2021",
+      "numeroRPI" : "2653",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715226",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "148",
+      "nome" : "(automático) Não existe nenhum recurso recebido no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715374",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "03/11/2021",
+      "numeroRPI" : "2652",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "421",
+      "nome" : "Republicação de pedido",
+      "dataPublicacaoRPI" : "13/04/2021",
+      "numeroRPI" : "2623",
+      "examinador" : "ANDREA ALEIXO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715307",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "03/11/2021",
+      "numeroRPI" : "2652",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715501",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "21/12/2021",
+      "numeroRPI" : "2659",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715153",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "03/11/2021",
+      "numeroRPI" : "2652",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "421",
+      "nome" : "Republicação de pedido",
+      "dataPublicacaoRPI" : "13/04/2021",
+      "numeroRPI" : "2623",
+      "examinador" : "ANDREA ALEIXO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715510",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "586",
+      "nome" : "(automático) Fim de prazo extraordinário para pagamento da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "511",
+      "nome" : "(automático) Fim de prazo ordinário para pagamento da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "153",
+      "nome" : "(automático) Não existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "08/02/2022",
+      "numeroRPI" : "2666",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715447",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "306",
+      "nome" : "(automático) Uma petição de desistência do pedido de registro foi deferida totalmente",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ADMINDIRMA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "423",
+      "nome" : "Notificação de oposição",
+      "dataPublicacaoRPI" : "25/05/2021",
+      "numeroRPI" : "2629",
+      "examinador" : "SEBASTIÃO CORREA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "514",
+      "nome" : "(automático) Existe alguma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "515",
+      "nome" : "(automático) Não existe nenhuma oposição pendente de conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "116",
+      "nome" : "(automático) Existe alguma oposição em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "293",
+      "nome" : "(automático) Não existem pendências antes da notificação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "501594174",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "768",
+      "nome" : "Deferimento de designação",
+      "dataPublicacaoRPI" : "15/02/2022",
+      "numeroRPI" : "2667",
+      "examinador" : "ALMERIO AMORIM ",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "770",
+      "nome" : "Concessão de registro em designação",
+      "dataPublicacaoRPI" : "17/05/2022",
+      "numeroRPI" : "2680",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "750",
+      "nome" : "(automático) Processo de Madri (não requer verificação de pagamento)",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "798",
+      "nome" : "(PAG50) Dados de designação criados no PAG",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "769",
+      "nome" : "(automático) Pagamento da concessão confirmado pela SI",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "759",
+      "nome" : "(automático) É pedido recebido via Protocolo de Madri",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "752",
+      "nome" : "Solicitado para exame formal de designação recebida",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "SIMONE COSTA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "751",
+      "nome" : "(automático) Tradução realizada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "756",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal de designação concluído)",
+      "dataPublicacaoRPI" : "13/07/2021",
+      "numeroRPI" : "2636",
+      "examinador" : "SIMONE COSTA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "763",
+      "nome" : "Solicitado para exame de mérito de pedido de registro sem oposição (Madri)",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ALMERIO AMORIM ",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715285",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "23/11/2021",
+      "numeroRPI" : "2655",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715463",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "23/11/2021",
+      "numeroRPI" : "2655",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715099",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "596",
+      "nome" : "(automático) Fim de espera para manifestação sobre oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "127",
+      "nome" : "(automático) É pedido de registro de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "423",
+      "nome" : "Notificação de oposição",
+      "dataPublicacaoRPI" : "25/05/2021",
+      "numeroRPI" : "2629",
+      "examinador" : "SEBASTIÃO CORREA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "093",
+      "nome" : "(automático) Não existe nenhuma petição em conformidade recebida no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "072",
+      "nome" : "Redistribuição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ROBERTA SANTOS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "139",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de cumprimento de exigência de mérito",
+      "dataPublicacaoRPI" : "23/08/2022",
+      "numeroRPI" : "2694",
+      "examinador" : "ROBERTA SANTOS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "514",
+      "nome" : "(automático) Existe alguma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "515",
+      "nome" : "(automático) Não existe nenhuma oposição pendente de conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "116",
+      "nome" : "(automático) Existe alguma oposição em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "293",
+      "nome" : "(automático) Não existem pendências antes da notificação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "546",
+      "nome" : "Solicitado para exame de mérito de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "JULIANE GOMES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "136",
+      "nome" : "Exigência de mérito",
+      "dataPublicacaoRPI" : "31/05/2022",
+      "numeroRPI" : "2682",
+      "examinador" : "JULIANE GOMES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921715161",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "148",
+      "nome" : "(automático) Não existe nenhum recurso recebido no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "596",
+      "nome" : "(automático) Fim de espera para manifestação sobre oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "21/06/2022",
+      "numeroRPI" : "2685",
+      "examinador" : "RAQUEL MORAES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "127",
+      "nome" : "(automático) É pedido de registro de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "423",
+      "nome" : "Notificação de oposição",
+      "dataPublicacaoRPI" : "25/05/2021",
+      "numeroRPI" : "2629",
+      "examinador" : "SEBASTIÃO CORREA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "514",
+      "nome" : "(automático) Existe alguma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "515",
+      "nome" : "(automático) Não existe nenhuma oposição pendente de conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "116",
+      "nome" : "(automático) Existe alguma oposição em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "293",
+      "nome" : "(automático) Não existem pendências antes da notificação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "546",
+      "nome" : "Solicitado para exame de mérito de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAQUEL MORAES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "012",
+      "nome" : "(automático) Fim de prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921715110",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "03/11/2021",
+      "numeroRPI" : "2652",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715340",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "057",
+      "nome" : "(automático) Decisão mantida",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715471",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "586",
+      "nome" : "(automático) Fim de prazo extraordinário para pagamento da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "511",
+      "nome" : "(automático) Fim de prazo ordinário para pagamento da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "153",
+      "nome" : "(automático) Não existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "08/02/2022",
+      "numeroRPI" : "2666",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715528",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "148",
+      "nome" : "(automático) Não existe nenhum recurso recebido no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715455",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG22",
+      "nome" : "(PAG22) Sem pagamento (esperou-se 10 dias)",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "047",
+      "nome" : "Decisão de considerar pedido inexistente por falta de pagamento",
+      "dataPublicacaoRPI" : "26/01/2021",
+      "numeroRPI" : "2612",
+      "examinador" : "MARCELO BARROS DEL REI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715242",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "23/11/2021",
+      "numeroRPI" : "2655",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "JOSE PINTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "JOSE PINTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715480",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "148",
+      "nome" : "(automático) Não existe nenhum recurso recebido no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "21/06/2022",
+      "numeroRPI" : "2685",
+      "examinador" : "RAQUEL MORAES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "596",
+      "nome" : "(automático) Fim de espera para manifestação sobre oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "127",
+      "nome" : "(automático) É pedido de registro de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "423",
+      "nome" : "Notificação de oposição",
+      "dataPublicacaoRPI" : "25/05/2021",
+      "numeroRPI" : "2629",
+      "examinador" : "SEBASTIÃO CORREA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "514",
+      "nome" : "(automático) Existe alguma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "515",
+      "nome" : "(automático) Não existe nenhuma oposição pendente de conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "116",
+      "nome" : "(automático) Existe alguma oposição em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "293",
+      "nome" : "(automático) Não existem pendências antes da notificação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "546",
+      "nome" : "Solicitado para exame de mérito de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAQUEL MORAES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "012",
+      "nome" : "(automático) Fim de prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921715560",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "148",
+      "nome" : "(automático) Não existe nenhum recurso recebido no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715080",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "586",
+      "nome" : "(automático) Fim de prazo extraordinário para pagamento da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "511",
+      "nome" : "(automático) Fim de prazo ordinário para pagamento da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "153",
+      "nome" : "(automático) Não existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "08/02/2022",
+      "numeroRPI" : "2666",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715358",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "596",
+      "nome" : "(automático) Fim de espera para manifestação sobre oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "21/06/2022",
+      "numeroRPI" : "2685",
+      "examinador" : "RAQUEL MORAES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "21/06/2022",
+      "numeroRPI" : "2685",
+      "examinador" : "RAQUEL MORAES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "306",
+      "nome" : "(automático) Uma petição de desistência do pedido de registro foi deferida totalmente",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "127",
+      "nome" : "(automático) É pedido de registro de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "423",
+      "nome" : "Notificação de oposição",
+      "dataPublicacaoRPI" : "25/05/2021",
+      "numeroRPI" : "2629",
+      "examinador" : "SEBASTIÃO CORREA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "514",
+      "nome" : "(automático) Existe alguma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "116",
+      "nome" : "(automático) Existe alguma oposição em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "515",
+      "nome" : "(automático) Não existe nenhuma oposição pendente de conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "293",
+      "nome" : "(automático) Não existem pendências antes da notificação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "546",
+      "nome" : "Solicitado para exame de mérito de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAQUEL MORAES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "306",
+      "nome" : "(automático) Uma petição de desistência do pedido de registro foi deferida totalmente",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ADMINDIRMA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "012",
+      "nome" : "(automático) Fim de prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921715250",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG22",
+      "nome" : "(PAG22) Sem pagamento (esperou-se 10 dias)",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "047",
+      "nome" : "Decisão de considerar pedido inexistente por falta de pagamento",
+      "dataPublicacaoRPI" : "26/01/2021",
+      "numeroRPI" : "2612",
+      "examinador" : "MARCELO BARROS DEL REI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715137",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "03/11/2021",
+      "numeroRPI" : "2652",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715234",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "19/10/2021",
+      "numeroRPI" : "2650",
+      "examinador" : "VINICIO AVELINO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "23/11/2021",
+      "numeroRPI" : "2655",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "VINICIO AVELINO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "012",
+      "nome" : "(automático) Fim de prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715269",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "19/10/2021",
+      "numeroRPI" : "2650",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "ANDREIA VALE",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDREIA VALE",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715129",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "596",
+      "nome" : "(automático) Fim de espera para manifestação sobre oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "127",
+      "nome" : "(automático) É pedido de registro de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "423",
+      "nome" : "Notificação de oposição",
+      "dataPublicacaoRPI" : "25/05/2021",
+      "numeroRPI" : "2629",
+      "examinador" : "SEBASTIÃO CORREA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "093",
+      "nome" : "(automático) Não existe nenhuma petição em conformidade recebida no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "072",
+      "nome" : "Redistribuição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ROBERTA SANTOS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "139",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de cumprimento de exigência de mérito",
+      "dataPublicacaoRPI" : "23/08/2022",
+      "numeroRPI" : "2694",
+      "examinador" : "ROBERTA SANTOS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "514",
+      "nome" : "(automático) Existe alguma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "515",
+      "nome" : "(automático) Não existe nenhuma oposição pendente de conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "116",
+      "nome" : "(automático) Existe alguma oposição em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "293",
+      "nome" : "(automático) Não existem pendências antes da notificação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "546",
+      "nome" : "Solicitado para exame de mérito de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "JULIANE GOMES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "136",
+      "nome" : "Exigência de mérito",
+      "dataPublicacaoRPI" : "31/05/2022",
+      "numeroRPI" : "2682",
+      "examinador" : "JULIANE GOMES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921715382",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "596",
+      "nome" : "(automático) Fim de espera para manifestação sobre oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "21/06/2022",
+      "numeroRPI" : "2685",
+      "examinador" : "RAQUEL MORAES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "127",
+      "nome" : "(automático) É pedido de registro de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "423",
+      "nome" : "Notificação de oposição",
+      "dataPublicacaoRPI" : "25/05/2021",
+      "numeroRPI" : "2629",
+      "examinador" : "SEBASTIÃO CORREA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "514",
+      "nome" : "(automático) Existe alguma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "515",
+      "nome" : "(automático) Não existe nenhuma oposição pendente de conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "116",
+      "nome" : "(automático) Existe alguma oposição em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "293",
+      "nome" : "(automático) Não existem pendências antes da notificação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "546",
+      "nome" : "Solicitado para exame de mérito de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAQUEL MORAES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "012",
+      "nome" : "(automático) Fim de prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "12/07/2022",
+      "numeroRPI" : "2688",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921715145",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "148",
+      "nome" : "(automático) Não existe nenhum recurso recebido no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715544",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "148",
+      "nome" : "(automático) Não existe nenhum recurso recebido no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715315",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "03/11/2021",
+      "numeroRPI" : "2652",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715293",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG22",
+      "nome" : "(PAG22) Sem pagamento (esperou-se 10 dias)",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "047",
+      "nome" : "Decisão de considerar pedido inexistente por falta de pagamento",
+      "dataPublicacaoRPI" : "26/01/2021",
+      "numeroRPI" : "2612",
+      "examinador" : "MARCELO BARROS DEL REI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715323",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "03/11/2021",
+      "numeroRPI" : "2652",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715102",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "23/11/2021",
+      "numeroRPI" : "2655",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ONAICRAM LOPES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715170",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "148",
+      "nome" : "(automático) Não existe nenhum recurso recebido no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "596",
+      "nome" : "(automático) Fim de espera para manifestação sobre oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "21/06/2022",
+      "numeroRPI" : "2685",
+      "examinador" : "RAQUEL MORAES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "127",
+      "nome" : "(automático) É pedido de registro de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "423",
+      "nome" : "Notificação de oposição",
+      "dataPublicacaoRPI" : "25/05/2021",
+      "numeroRPI" : "2629",
+      "examinador" : "SEBASTIÃO CORREA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "514",
+      "nome" : "(automático) Existe alguma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "116",
+      "nome" : "(automático) Existe alguma oposição em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "515",
+      "nome" : "(automático) Não existe nenhuma oposição pendente de conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "293",
+      "nome" : "(automático) Não existem pendências antes da notificação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "546",
+      "nome" : "Solicitado para exame de mérito de marca com oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAQUEL MORAES",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "012",
+      "nome" : "(automático) Fim de prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921715498",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "586",
+      "nome" : "(automático) Fim de prazo extraordinário para pagamento da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "511",
+      "nome" : "(automático) Fim de prazo ordinário para pagamento da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "153",
+      "nome" : "(automático) Não existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "08/02/2022",
+      "numeroRPI" : "2666",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715277",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "148",
+      "nome" : "(automático) Não existe nenhum recurso recebido no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715420",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "100",
+      "nome" : "(automático) É pedido com procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "093",
+      "nome" : "(automático) Não existe nenhuma petição em conformidade recebida no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "139",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de cumprimento de exigência de mérito",
+      "dataPublicacaoRPI" : "28/12/2021",
+      "numeroRPI" : "2660",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "136",
+      "nome" : "Exigência de mérito",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715196",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG35",
+      "nome" : "(PAG35) Pagamento no fim de semana, feriado ou fora do expediente bancário",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "26/10/2021",
+      "numeroRPI" : "2651",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "SUELEN TEIXEIRA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715439",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "154",
+      "nome" : "(automático) Existe pagamento em conformidade",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "467",
+      "nome" : "(automático) Não existem pendências antes da concessão",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "03/11/2021",
+      "numeroRPI" : "2652",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921715552",
+    "dataDeposito" : "01/01/2021",
+    "listaProdutos" : [ {
+      "codigo" : "099",
+      "nome" : "(automático) É pedido sem procurador",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "PAG11",
+      "nome" : "(PAG11) Pagamento Conciliado",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "Interfaces IPAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "595",
+      "nome" : "(automático) Fim de prazo de apresentação de oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "297",
+      "nome" : "Pedido liberado para exame",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "128",
+      "nome" : "(automático) É pedido de registro de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "758",
+      "nome" : "(automático) É pedido recebido na via nacional",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "465",
+      "nome" : "(automático) Não existem pendências antes do exame de mérito",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "211",
+      "nome" : "(automático) Não existe nenhuma oposição apresentada",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "148",
+      "nome" : "(automático) Não existe nenhum recurso recebido no prazo",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "MARCAS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "547",
+      "nome" : "Solicitado para exame de mérito de marca sem oposição",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/10/2021",
+      "numeroRPI" : "2648",
+      "examinador" : "RAFAEL NASCIMENTO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "541",
+      "nome" : "Solicitado para exame formal",
+      "dataPublicacaoRPI" : "",
+      "numeroRPI" : "",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "02/02/2021",
+      "numeroRPI" : "2613",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  } ]
+}
