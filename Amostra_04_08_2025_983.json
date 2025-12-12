@@ -1,0 +1,3798 @@
+{
+  "totalResultados" : 317,
+  "pedidos" : [ {
+    "numeroPedido" : "919510388",
+    "dataDeposito" : "02/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921328443",
+    "dataDeposito" : "16/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921471068",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919859143",
+    "dataDeposito" : "08/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "DANIELE HERVE",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921418191",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921328435",
+    "dataDeposito" : "16/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921387768",
+    "dataDeposito" : "23/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921471793",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "917393287",
+    "dataDeposito" : "24/05/2019",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "919047602",
+    "dataDeposito" : "20/01/2020",
+    "listaProdutos" : [ {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921473648",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919860680",
+    "dataDeposito" : "08/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDREIA VALE",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919813623",
+    "dataDeposito" : "01/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANTONIO C. SIERRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "920278590",
+    "dataDeposito" : "28/07/2020",
+    "listaProdutos" : [ {
+      "codigo" : "423",
+      "nome" : "Notificação de oposição",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "DENIS DINIZ",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "919727573",
+    "dataDeposito" : "19/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "BIANCA MINA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921402970",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921444460",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921427662",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "907278663",
+    "dataDeposito" : "30/01/2014",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919408192",
+    "dataDeposito" : "13/03/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919668658",
+    "dataDeposito" : "07/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921437269",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921396384",
+    "dataDeposito" : "23/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921328214",
+    "dataDeposito" : "16/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921322763",
+    "dataDeposito" : "16/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921442734",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "820160938",
+    "dataDeposito" : "13/08/1997",
+    "listaProdutos" : [ {
+      "codigo" : "161",
+      "nome" : "Extinção de registro pela expiração do prazo de vigência",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "825783275",
+    "dataDeposito" : "16/09/2003",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921415974",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "819981591",
+    "dataDeposito" : "23/07/1997",
+    "listaProdutos" : [ {
+      "codigo" : "161",
+      "nome" : "Extinção de registro pela expiração do prazo de vigência",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921312121",
+    "dataDeposito" : "13/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921460058",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "917667174",
+    "dataDeposito" : "05/07/2019",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "823114805",
+    "dataDeposito" : "27/03/2001",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "THIAGO CAMPOS",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "THIAGO CAMPOS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "911950770",
+    "dataDeposito" : "23/11/2016",
+    "listaProdutos" : [ {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919618260",
+    "dataDeposito" : "28/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "918886805",
+    "dataDeposito" : "16/12/2019",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "LEILA VALLE",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921348665",
+    "dataDeposito" : "18/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921469250",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921445830",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921404506",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919459676",
+    "dataDeposito" : "24/03/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919729215",
+    "dataDeposito" : "19/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921465149",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEXANDRE BARRETO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921434510",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921414986",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919562574",
+    "dataDeposito" : "15/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "912651393",
+    "dataDeposito" : "29/04/2017",
+    "listaProdutos" : [ {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921413408",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921422253",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921418930",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919704786",
+    "dataDeposito" : "14/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "142",
+      "nome" : "Sobrestamento do exame de mérito",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "BIANCA MINA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919851720",
+    "dataDeposito" : "05/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "JULIANE GOMES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919849164",
+    "dataDeposito" : "05/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921418272",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921458355",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "SIMONE COSTA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921335385",
+    "dataDeposito" : "17/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921424612",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921407777",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921442181",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921446250",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921459688",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "SIMONE COSTA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921438273",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "SIMONE COSTA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921477902",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921446969",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921354487",
+    "dataDeposito" : "18/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921407700",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921441070",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921462565",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "918953553",
+    "dataDeposito" : "29/12/2019",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "LEONARDO MACEDO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921457162",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "SIMONE COSTA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919536131",
+    "dataDeposito" : "09/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921304960",
+    "dataDeposito" : "12/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921424582",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "900496410",
+    "dataDeposito" : "13/09/2007",
+    "listaProdutos" : [ {
+      "codigo" : "161",
+      "nome" : "Extinção de registro pela expiração do prazo de vigência",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ROBERTA SANTOS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "914737066",
+    "dataDeposito" : "23/05/2018",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921454147",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEXANDRE BARRETO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921352425",
+    "dataDeposito" : "18/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "918950465",
+    "dataDeposito" : "27/12/2019",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "BEATRIZ BRANCO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "919067697",
+    "dataDeposito" : "22/01/2020",
+    "listaProdutos" : [ {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919747485",
+    "dataDeposito" : "21/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921465289",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEXANDRE BARRETO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921416164",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919791719",
+    "dataDeposito" : "28/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "JORGE ASSIS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921386524",
+    "dataDeposito" : "23/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921357168",
+    "dataDeposito" : "18/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921434332",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "919683819",
+    "dataDeposito" : "11/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921326076",
+    "dataDeposito" : "16/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921471521",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921423640",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921407416",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919270522",
+    "dataDeposito" : "20/02/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921408625",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919864830",
+    "dataDeposito" : "08/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MILENA PATRICIA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919063624",
+    "dataDeposito" : "22/01/2020",
+    "listaProdutos" : [ {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921323174",
+    "dataDeposito" : "16/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921434391",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921353782",
+    "dataDeposito" : "18/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921405057",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921405448",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "920274285",
+    "dataDeposito" : "27/07/2020",
+    "listaProdutos" : [ {
+      "codigo" : "423",
+      "nome" : "Notificação de oposição",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "DENIS DINIZ",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921394160",
+    "dataDeposito" : "23/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "918102901",
+    "dataDeposito" : "30/08/2019",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921326319",
+    "dataDeposito" : "16/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921444419",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921418523",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921412304",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919824811",
+    "dataDeposito" : "03/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MARIE MESIDOR",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921478364",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921417950",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921426151",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921355963",
+    "dataDeposito" : "18/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919809804",
+    "dataDeposito" : "01/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ILANE MAGALHÃES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921448350",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919765823",
+    "dataDeposito" : "25/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MARCELO PIMENTEL",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921408366",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921464215",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919852130",
+    "dataDeposito" : "05/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "JULIANE GOMES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921404344",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921458380",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "SIMONE COSTA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919854133",
+    "dataDeposito" : "08/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919871941",
+    "dataDeposito" : "09/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MILENA PATRICIA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921328192",
+    "dataDeposito" : "16/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921386460",
+    "dataDeposito" : "22/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919499260",
+    "dataDeposito" : "01/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921459793",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921472277",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "824914554",
+    "dataDeposito" : "22/08/2002",
+    "listaProdutos" : [ {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "908102682",
+    "dataDeposito" : "11/08/2014",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "919872484",
+    "dataDeposito" : "09/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MILENA PATRICIA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "829403825",
+    "dataDeposito" : "10/10/2007",
+    "listaProdutos" : [ {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919834655",
+    "dataDeposito" : "04/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MARIE MESIDOR",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919801714",
+    "dataDeposito" : "29/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MILENA PATRICIA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919864210",
+    "dataDeposito" : "08/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MILENA PATRICIA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921462425",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919847102",
+    "dataDeposito" : "05/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "RAUL PEDREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "918078318",
+    "dataDeposito" : "28/08/2019",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921430523",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEXANDRE BARRETO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "919749852",
+    "dataDeposito" : "21/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921395485",
+    "dataDeposito" : "23/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921411944",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "826767095",
+    "dataDeposito" : "22/10/2004",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VIVIAN LEANDRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919849954",
+    "dataDeposito" : "05/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "DANIELE HERVE",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921459912",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919420990",
+    "dataDeposito" : "17/03/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919059350",
+    "dataDeposito" : "21/01/2020",
+    "listaProdutos" : [ {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921406185",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921447400",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919832733",
+    "dataDeposito" : "03/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANTONIO C. SIERRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "820345075",
+    "dataDeposito" : "29/10/1997",
+    "listaProdutos" : [ {
+      "codigo" : "161",
+      "nome" : "Extinção de registro pela expiração do prazo de vigência",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921428707",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919735452",
+    "dataDeposito" : "20/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921422334",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "SIMONE COSTA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919536697",
+    "dataDeposito" : "09/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "912916940",
+    "dataDeposito" : "22/06/2017",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921329024",
+    "dataDeposito" : "16/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921444265",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "820155047",
+    "dataDeposito" : "07/08/1997",
+    "listaProdutos" : [ {
+      "codigo" : "161",
+      "nome" : "Extinção de registro pela expiração do prazo de vigência",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921409281",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "840793766",
+    "dataDeposito" : "14/02/2014",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921404263",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921114354",
+    "dataDeposito" : "23/10/2020",
+    "listaProdutos" : [ {
+      "codigo" : "421",
+      "nome" : "Republicação de pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDREA ALEIXO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921418604",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919248969",
+    "dataDeposito" : "18/02/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919490344",
+    "dataDeposito" : "30/03/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921431813",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921448295",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921410433",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921409583",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921477708",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921467036",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEXANDRE BARRETO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921385960",
+    "dataDeposito" : "22/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921387725",
+    "dataDeposito" : "23/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "3994015",
+    "dataDeposito" : "20/12/1963",
+    "listaProdutos" : [ {
+      "codigo" : "161",
+      "nome" : "Extinção de registro pela expiração do prazo de vigência",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919826296",
+    "dataDeposito" : "03/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDREA COLLACO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921418981",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921437331",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919865569",
+    "dataDeposito" : "09/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "142",
+      "nome" : "Sobrestamento do exame de mérito",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919853382",
+    "dataDeposito" : "07/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEXANDRE GUARNIERI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "900068485",
+    "dataDeposito" : "01/11/2006",
+    "listaProdutos" : [ {
+      "codigo" : "161",
+      "nome" : "Extinção de registro pela expiração do prazo de vigência",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MARIA CECILIA BARBOSA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921449704",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919872018",
+    "dataDeposito" : "09/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MARIA HELENA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921430272",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEXANDRE BARRETO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919845800",
+    "dataDeposito" : "05/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VANESSA BIANCA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921337264",
+    "dataDeposito" : "17/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921446870",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919849393",
+    "dataDeposito" : "05/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MAÍRA MARINS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919858562",
+    "dataDeposito" : "08/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VITOR ALBUQUERQUE",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919868673",
+    "dataDeposito" : "09/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FERNANDA FIUZA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "918942772",
+    "dataDeposito" : "26/12/2019",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "LEILA VALLE",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921405456",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921407769",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921452411",
+    "dataDeposito" : "29/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921462549",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921406495",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921354223",
+    "dataDeposito" : "18/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921304102",
+    "dataDeposito" : "12/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919506003",
+    "dataDeposito" : "02/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919859011",
+    "dataDeposito" : "08/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "JOÃO SANTOS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921429258",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921353545",
+    "dataDeposito" : "18/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921467591",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEXANDRE BARRETO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921443544",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921276397",
+    "dataDeposito" : "10/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921419449",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "SIMONE COSTA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921413564",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919048803",
+    "dataDeposito" : "20/01/2020",
+    "listaProdutos" : [ {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919850480",
+    "dataDeposito" : "05/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "BIANCA MINA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921404905",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921389248",
+    "dataDeposito" : "23/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921388063",
+    "dataDeposito" : "23/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "918562082",
+    "dataDeposito" : "30/10/2019",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921462085",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "920275770",
+    "dataDeposito" : "27/07/2020",
+    "listaProdutos" : [ {
+      "codigo" : "423",
+      "nome" : "Notificação de oposição",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "DENIS DINIZ",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921413203",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921401531",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919856829",
+    "dataDeposito" : "08/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VANESSA BIANCA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921470630",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921325568",
+    "dataDeposito" : "16/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921416822",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921438516",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "SIMONE COSTA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921402422",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919867618",
+    "dataDeposito" : "09/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ROBESIO ALVES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921454449",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEXANDRE BARRETO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919559166",
+    "dataDeposito" : "15/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921305796",
+    "dataDeposito" : "12/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921449348",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "902838423",
+    "dataDeposito" : "06/08/2010",
+    "listaProdutos" : [ {
+      "codigo" : "304",
+      "nome" : "Extinção de registro pela caducidade",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EDERSON ASSIS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919681484",
+    "dataDeposito" : "11/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921326734",
+    "dataDeposito" : "16/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "7011512",
+    "dataDeposito" : "14/08/1978",
+    "listaProdutos" : [ {
+      "codigo" : "161",
+      "nome" : "Extinção de registro pela expiração do prazo de vigência",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919536620",
+    "dataDeposito" : "09/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921461186",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919350127",
+    "dataDeposito" : "05/03/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921460350",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919857922",
+    "dataDeposito" : "08/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRINA CASTRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919851088",
+    "dataDeposito" : "05/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "JULIANE GOMES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921404131",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921335067",
+    "dataDeposito" : "17/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921429320",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921445628",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921404662",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "907362591",
+    "dataDeposito" : "21/02/2014",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "TATIANE SILVA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921427948",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "920277489",
+    "dataDeposito" : "27/07/2020",
+    "listaProdutos" : [ {
+      "codigo" : "423",
+      "nome" : "Notificação de oposição",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "DENIS DINIZ",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "919552056",
+    "dataDeposito" : "14/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "825930197",
+    "dataDeposito" : "14/11/2003",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "CAIO MILETO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "918996570",
+    "dataDeposito" : "10/01/2020",
+    "listaProdutos" : [ {
+      "codigo" : "402",
+      "nome" : "Anulação de despacho (em processo)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "RADJA FÁTIMA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919699669",
+    "dataDeposito" : "13/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "CRISTINA NUNES DE SANT'ANNA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "914539655",
+    "dataDeposito" : "19/04/2018",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "DANIEL MATOS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "917779240",
+    "dataDeposito" : "22/07/2019",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919070035",
+    "dataDeposito" : "23/01/2020",
+    "listaProdutos" : [ {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921464746",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "819835129",
+    "dataDeposito" : "06/03/1997",
+    "listaProdutos" : [ {
+      "codigo" : "161",
+      "nome" : "Extinção de registro pela expiração do prazo de vigência",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921336071",
+    "dataDeposito" : "17/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "918955815",
+    "dataDeposito" : "30/12/2019",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "DIOGO BARROS",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921407998",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921445598",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919375545",
+    "dataDeposito" : "10/03/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919590004",
+    "dataDeposito" : "22/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "DANIELA CAMARA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919056334",
+    "dataDeposito" : "21/01/2020",
+    "listaProdutos" : [ {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "820140171",
+    "dataDeposito" : "24/07/1997",
+    "listaProdutos" : [ {
+      "codigo" : "161",
+      "nome" : "Extinção de registro pela expiração do prazo de vigência",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921438010",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEXANDRE BARRETO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921464894",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEXANDRE BARRETO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921457987",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "SIMONE COSTA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919392911",
+    "dataDeposito" : "12/03/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919838189",
+    "dataDeposito" : "04/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MILENA PATRICIA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919611559",
+    "dataDeposito" : "27/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "917599934",
+    "dataDeposito" : "26/06/2019",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "TATIANE SILVA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : "Oposição"
+  }, {
+    "numeroPedido" : "921324715",
+    "dataDeposito" : "16/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921437137",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921406134",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919059589",
+    "dataDeposito" : "22/01/2020",
+    "listaProdutos" : [ {
+      "codigo" : "157",
+      "nome" : "Arquivamento definitivo de pedido de registro por falta de pagamento da concessão",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "UBIRACI MARQUES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919860974",
+    "dataDeposito" : "08/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALLINE COUTO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921407971",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "7011547",
+    "dataDeposito" : "15/08/1978",
+    "listaProdutos" : [ {
+      "codigo" : "161",
+      "nome" : "Extinção de registro pela expiração do prazo de vigência",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "GERARDO PESSOA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921289693",
+    "dataDeposito" : "11/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919436374",
+    "dataDeposito" : "18/03/2020",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MARIA HELENA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921357010",
+    "dataDeposito" : "18/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921464410",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919388795",
+    "dataDeposito" : "11/03/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921435223",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921288280",
+    "dataDeposito" : "11/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919813909",
+    "dataDeposito" : "01/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "CRISTINA NUNES DE SANT'ANNA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921475691",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921413548",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919857400",
+    "dataDeposito" : "08/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MILENA PATRICIA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919357172",
+    "dataDeposito" : "06/03/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921477090",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919719716",
+    "dataDeposito" : "18/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921470150",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921428324",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921348118",
+    "dataDeposito" : "18/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919834434",
+    "dataDeposito" : "04/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "029",
+      "nome" : "Deferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ILANE MAGALHÃES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921432771",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919859801",
+    "dataDeposito" : "08/06/2020",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "BIANCA MINA",
+      "lotacao" : "DIRMA"
+    }, {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "BIANCA MINA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919734260",
+    "dataDeposito" : "19/05/2020",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "MILENA PATRICIA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921462220",
+    "dataDeposito" : "30/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921427778",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921445130",
+    "dataDeposito" : "27/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "AUGUSTO TOLEDO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919579744",
+    "dataDeposito" : "20/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921416466",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921436785",
+    "dataDeposito" : "26/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ANDRÉ LUIZ CORDEIRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "918881099",
+    "dataDeposito" : "16/12/2019",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "913071471",
+    "dataDeposito" : "20/07/2017",
+    "listaProdutos" : [ {
+      "codigo" : "024",
+      "nome" : "Indeferimento do pedido",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VIVIAN LEANDRO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921410417",
+    "dataDeposito" : "24/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ELAINE CAVALCANTI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921386788",
+    "dataDeposito" : "23/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "919580157",
+    "dataDeposito" : "20/04/2020",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921476515",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "918952646",
+    "dataDeposito" : "27/12/2019",
+    "listaProdutos" : [ {
+      "codigo" : "158",
+      "nome" : "Concessão de registro",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "EVANDRO ARENARI",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921323913",
+    "dataDeposito" : "16/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "PEDRO MOREIRA",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921415095",
+    "dataDeposito" : "25/11/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "ALEX ABREU",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921470835",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "VICTOR MENDES",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  }, {
+    "numeroPedido" : "921478780",
+    "dataDeposito" : "01/12/2020",
+    "listaProdutos" : [ {
+      "codigo" : "009",
+      "nome" : "Publicação de pedido de registro para oposição (exame formal concluído)",
+      "dataPublicacaoRPI" : "05/01/2021",
+      "numeroRPI" : "2609",
+      "examinador" : "FÁBIO MACHADO",
+      "lotacao" : "DIRMA"
+    } ],
+    "situacao" : ""
+  } ]
+}
